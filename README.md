@@ -10,18 +10,10 @@ Bounds and Inference package, based on the replication by Kallus (2024).
 - Original Repository:
   [CausalML/TreatmentEffectRisk](https://github.com/CausalML/TreatmentEffectRisk)
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE file
-for details.
 
 <!-- ## MAP
 &#10;![](./original_pkg/functions.png) -->
 
-# Contact
-
-For questions or inquiries about the package, please contact
-\[fr.jhonk@gmail.com\].
 
 # Usage
 
